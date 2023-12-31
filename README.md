@@ -3,7 +3,7 @@
 
 In this project an Arduino and a Ultrassonic Sensor are used to build a simple piano. 
 
-This is my first hands on project (outside of university) using arduino and the objective is to learn about how an Ultrasonic Sensor works and how its data can be used. For this simple project I follow some guides online in which all the code and schematics is based off.
+This is my first hands on project (outside of university) using arduino and the objective is to learn about how an Ultrasonic Sensor works and how its data can be used. For this simple project I followed some guides online in which all the code and schematics is based off.
 <hr>
 
 ### Table of Contents
