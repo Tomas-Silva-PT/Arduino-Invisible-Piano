@@ -101,7 +101,7 @@ The following image shows how to connect all the components listed above:
 
 The piano notes will be played by the piezo, which will receive information about the frequency of the note to play. 
 <br>
-That information is obtained by calculating the distance from our fingers to the ultrasonic sensor. For details about how the distance is related to the frequency, go to [Relating frequency with distance](#Relating-frequency-with-distance).
+That information is obtained by calculating the distance from our fingers to the ultrasonic sensor. For details about how the distance is related to the frequency, go to [Relating frequency with distance](#12-relating-frequency-with-distance).
 <br>
 As you can see from the schematic and the list of materials, there are two LEDs around the ultrasonic sensor. Those are not essential for the piano to work, but are a nice way of visualizing the moments when the distance is calculated and a piano note is played.
 
