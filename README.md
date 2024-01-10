@@ -11,7 +11,7 @@ This is my first hands on project (outside of university) using arduino and the 
 1. [Objective and Algorithm](#1-objective-and-algorithm)
     1. [Defining the frequency of the piano notes](#11-defining-the-frequency-of-the-piano-notes)
     2. [Relating frequency with distance](#12-relating-frequency-with-distance)
-2. [Eletrical Circuit](#2-eletrical-circuit)
+2. [Electrical Circuit](#2-Electrical-circuit)
    1. [Material Needed](#21-material-needed)
    2. [Schematic](#22-schematic)
 3. [Code](#3-code)
@@ -70,7 +70,7 @@ In summary, the algorithm for this piano is:
 
 <hr>
 
-### 2. Eletrical Circuit
+### 2. Electrical Circuit
 
 For our piano to work we need to build it!
 <br>
