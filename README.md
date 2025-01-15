@@ -44,7 +44,7 @@ Having the frequency of the sounds we want to reproduce, now we need a way to de
 Since this sensor can measure distance, we can set intervals of distance for each note. 
 Think of it as simulating each physical piano key, each occupying a bit of space for your finger to correctly press it. In this case, that space is defined not by a physical object, but by an empty space!
 
-Here is the intervals of distance assigned to each note and its corresponding frequency:
+Here are the intervals of distance assigned to each note and its corresponding frequency:
 
 | Note | Frequency (Hz) | Interval (cm) |
 | :- | :-: | -: |
